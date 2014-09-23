@@ -1,0 +1,13 @@
+
+
+public class Two {
+
+	public static void main(String[] args) {
+			Date d1=new Date();
+			ArrayList a1=new ArrayList();
+		LinkedList ll=new LinkedList();
+		
+		
+	}
+
+}

@@ -1,0 +1,19 @@
+import java.util.ArrayList;
+import java.util.Date;
+
+
+public class One {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Date d1=new Date();
+		
+		ArrayList a1=new ArrayList();
+		
+	}
+
+}
